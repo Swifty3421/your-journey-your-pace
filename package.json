@@ -1,0 +1,21 @@
+{
+  "name": "weight-loss-journey-pwa",
+  "version": "1.0.0",
+  "description": "Weight Loss Journey PWA for David & Amanda",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "pwa",
+    "weight-loss",
+    "fitness",
+    "health-tracker"
+  ],
+  "author": "David",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
